@@ -5,4 +5,5 @@ def add(*args):
     return total
 
 
+print("This is python programming!")
 print(add(1, 2, 3, 4, 5))
